@@ -1,0 +1,10 @@
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\bin\Debug\CEFTEST.exe.config
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\bin\Debug\CEFTEST.exe
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\bin\Debug\CEFTEST.pdb
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\obj\Debug\CEFTEST.csprojAssemblyReference.cache
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\obj\Debug\CEFTEST.Form1.resources
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\obj\Debug\CEFTEST.Properties.Resources.resources
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\obj\Debug\CEFTEST.csproj.GenerateResource.cache
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\obj\Debug\CEFTEST.csproj.CoreCompileInputs.cache
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\obj\Debug\CEFTEST.exe
+C:\Users\wesleyns\source\repos\CEFTEST\CEFTEST\obj\Debug\CEFTEST.pdb

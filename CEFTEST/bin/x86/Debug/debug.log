@@ -1,0 +1,502 @@
+[0521/124016.616:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0521/124106.263:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0521/124111.870:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0521/141059.294:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0522/080224.234:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0522/080406.396:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0522/081622.032:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0522/082835.796:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0524/104325.392:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0524/104833.916:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0524/110911.831:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0524/112941.977:INFO:CONSOLE(46)] "Uncaught ReferenceError: festa is not defined", source: http://www.cidadaopg.sp.gov.br:8080/siscoe/jsp/boas_vindas.jsp (46)
+[0524/235130.918:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+[0525/001328.517:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0525/001328.519:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0525/001328.990:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/001328.990:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/001329.185:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&passive=true&hl=en&uilel=3' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0525/001329.240:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/001329.240:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/001330.249:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vfl7buC1V/desktop_polymer.js (1177)
+[0525/001330.645:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0525/001330.770:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0525/001330.777:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0525/001347.693:INFO:CONSOLE(16)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=j53T-aeQ25M (16)
+[0525/001347.997:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/001347.997:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/001348.038:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/001348.038:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/001348.206:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0525/001348.206:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0525/001353.076:INFO:CONSOLE(0)] "The resource https://r1---sn-oxunxg8pjvn-bg0k7.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.youtube.com/watch?v=j53T-aeQ25M (0)
+[0525/001353.077:INFO:CONSOLE(0)] "The resource https://r1---sn-oxunxg8pjvn-bg0k7.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.youtube.com/watch?v=j53T-aeQ25M (0)
+[0525/001429.931:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0525/002137.048:INFO:CONSOLE(16)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ZD4yoVx4qrM (16)
+[0525/002137.454:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/002137.454:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/002137.505:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/002137.505:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/002137.857:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0525/002137.858:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0525/002141.358:INFO:CONSOLE(0)] "The resource https://r2---sn-oxunxg8pjvn-bg0k7.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.youtube.com/watch?v=ZD4yoVx4qrM (0)
+[0525/002141.358:INFO:CONSOLE(0)] "The resource https://r2---sn-oxunxg8pjvn-bg0k7.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.youtube.com/watch?v=ZD4yoVx4qrM (0)
+[0525/002159.751:INFO:CONSOLE(16)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=_tQ1Y4qfWOo (16)
+[0525/002200.377:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/002200.378:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/002200.406:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/002200.406:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/002200.589:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0525/002200.589:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0525/002204.488:INFO:CONSOLE(0)] "The resource https://r1---sn-oxunxg8pjvn-bg0k7.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.youtube.com/watch?v=lYCQozQkeDE (0)
+[0525/002204.489:INFO:CONSOLE(0)] "The resource https://r1---sn-oxunxg8pjvn-bg0k7.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.youtube.com/watch?v=lYCQozQkeDE (0)
+[0525/002208.660:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0525/002554.717:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0525/002803.807:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9466594%2C9471235%2C9477361%2C9488978%2C23705778%2C23722182%2C23723304%2C23730401%2C23732339%2C23735597%2C23735744%2C23735876%2C23738145%2C23738979%2C23740024%2C23741666%2C23741719%2C23742397&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_174%2BVertical_433%2BVertical_444%2BVertical_474%2BVertical_533%2Bafv_user_id_lu474HMt895mVxZdlIHXEA%2Bafv_user_nerdologia%2Byt_cid_482704%2Byt_mpvid_uxAGvzgbV8kVTk0E%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FjSPrcJH3SGg&ea=0&flash=0&host=ca-host-pub-8444926366820323&ht_id=21519380&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_jSPrcJH3SGg&wgl=1&dbp=ChZnaVptZ3RPZGI4ME9vN0h5SV9WcDJREAEgASgA&lact=-1&yt_pt=APb3F28X3--WlXLV-5qP_iZuc5y1qoprsFhF7MuWo_iitp6g8NIPbqQO29TWsQUtdt9LQXMMHrDWguEkDOhGb3C9tO9D2fSD8WXxAov75BdW0MD4vdPIhrHtc0aeQJkPp_THuClYyBTKbF4wkh5lmPZM4qtJnarqNC0_3H9c8A&dt=1527218883352&bdt=363681&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=2582688206446&frm=20&ga_vid=367039805.1527218547&ga_sid=1527218547&ga_hid=519378441&ga_fc=0&pv=1&iag=0&icsg=3023388715520&dssz=44&mdo=0&mso=0&u_tz=-180&u_his=8&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.youtube.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjSPrcJH3SGg&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=28 (0)
+[0525/002803.982:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn3.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: about:blank (0)
+[0525/002803.985:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn3.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://cdn3.doubleverify.com/bst2tv3.html (0)
+[0525/002804.010:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9466594%2C9471235%2C9477361%2C9488978%2C23705778%2C23722182%2C23723304%2C23730401%2C23732339%2C23735597%2C23735744%2C23735876%2C23738145%2C23738979%2C23740024%2C23741666%2C23741719%2C23742397&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_174%2BVertical_433%2BVertical_444%2BVertical_474%2BVertical_533%2Bafv_user_id_lu474HMt895mVxZdlIHXEA%2Bafv_user_nerdologia%2Byt_cid_482704%2Byt_mpvid_uxAGvzgbV8kVTk0E%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FjSPrcJH3SGg&ea=0&flash=0&host=ca-host-pub-8444926366820323&ht_id=21519380&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_jSPrcJH3SGg&wgl=1&dbp=ChZnaVptZ3RPZGI4ME9vN0h5SV9WcDJREAEgASgA&lact=-1&yt_pt=APb3F28X3--WlXLV-5qP_iZuc5y1qoprsFhF7MuWo_iitp6g8NIPbqQO29TWsQUtdt9LQXMMHrDWguEkDOhGb3C9tO9D2fSD8WXxAov75BdW0MD4vdPIhrHtc0aeQJkPp_THuClYyBTKbF4wkh5lmPZM4qtJnarqNC0_3H9c8A&dt=1527218883352&bdt=363681&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=2582688206446&frm=20&ga_vid=367039805.1527218547&ga_sid=1527218547&ga_hid=519378441&ga_fc=0&pv=1&iag=0&icsg=3023388715520&dssz=44&mdo=0&mso=0&u_tz=-180&u_his=8&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.youtube.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjSPrcJH3SGg&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=28 (0)
+[0525/002805.844:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9466594%2C9471235%2C9477361%2C9488978%2C23705778%2C23722182%2C23723304%2C23730401%2C23732339%2C23735597%2C23735744%2C23735876%2C23738145%2C23738979%2C23740024%2C23741666%2C23741719%2C23742397&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_174%2BVertical_433%2BVertical_444%2BVertical_474%2BVertical_533%2Bafv_user_id_lu474HMt895mVxZdlIHXEA%2Bafv_user_nerdologia%2Byt_cid_482704%2Byt_mpvid_uxAGvzgbV8kVTk0E%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FjSPrcJH3SGg&ea=0&flash=0&host=ca-host-pub-8444926366820323&ht_id=21519380&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_jSPrcJH3SGg&wgl=1&dbp=ChZnaVptZ3RPZGI4ME9vN0h5SV9WcDJREAEgASgA&lact=-1&yt_pt=APb3F28X3--WlXLV-5qP_iZuc5y1qoprsFhF7MuWo_iitp6g8NIPbqQO29TWsQUtdt9LQXMMHrDWguEkDOhGb3C9tO9D2fSD8WXxAov75BdW0MD4vdPIhrHtc0aeQJkPp_THuClYyBTKbF4wkh5lmPZM4qtJnarqNC0_3H9c8A&dt=1527218883352&bdt=363681&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=2582688206446&frm=20&ga_vid=367039805.1527218547&ga_sid=1527218547&ga_hid=519378441&ga_fc=0&pv=1&iag=0&icsg=3023388715520&dssz=44&mdo=0&mso=0&u_tz=-180&u_his=8&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.youtube.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjSPrcJH3SGg&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=28 (0)
+[0525/002806.022:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn3.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: about:blank (0)
+[0525/002806.026:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn3.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://cdn3.doubleverify.com/t2tv7.html (0)
+[0525/002807.728:INFO:CONSOLE(0)] "Refused to execute script from 'https://adfarm.mediaplex.com/ad/im/13044-85265-63530-0?mpaltsys=46&mpalt=d576dbc5-a00e-49ee-ab30-614db21787d7' because its MIME type ('image/gif') is not executable.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9466594%2C9471235%2C9477361%2C9488978%2C23705778%2C23722182%2C23723304%2C23730401%2C23732339%2C23735597%2C23735744%2C23735876%2C23738145%2C23738979%2C23740024%2C23741666%2C23741719%2C23742397&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_174%2BVertical_433%2BVertical_444%2BVertical_474%2BVertical_533%2Bafv_user_id_lu474HMt895mVxZdlIHXEA%2Bafv_user_nerdologia%2Byt_cid_482704%2Byt_mpvid_uxAGvzgbV8kVTk0E%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FjSPrcJH3SGg&ea=0&flash=0&host=ca-host-pub-8444926366820323&ht_id=21519380&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_jSPrcJH3SGg&wgl=1&dbp=ChZnaVptZ3RPZGI4ME9vN0h5SV9WcDJREAEgASgA&lact=-1&yt_pt=APb3F28X3--WlXLV-5qP_iZuc5y1qoprsFhF7MuWo_iitp6g8NIPbqQO29TWsQUtdt9LQXMMHrDWguEkDOhGb3C9tO9D2fSD8WXxAov75BdW0MD4vdPIhrHtc0aeQJkPp_THuClYyBTKbF4wkh5lmPZM4qtJnarqNC0_3H9c8A&dt=1527218883352&bdt=363681&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=2582688206446&frm=20&ga_vid=367039805.1527218547&ga_sid=1527218547&ga_hid=519378441&ga_fc=0&pv=1&iag=0&icsg=3023388715520&dssz=44&mdo=0&mso=0&u_tz=-180&u_his=8&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.youtube.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjSPrcJH3SGg&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=28 (0)
+[0525/002809.467:INFO:CONSOLE(0)] "Refused to execute script from 'https://t.myvisualiq.net/sync?prid=1001&ao=0&pruuid=TAPAD_a62e1d81-5fcb-11e8-9913-0a580a0201bc' because its MIME type ('image/gif') is not executable.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9466594%2C9471235%2C9477361%2C9488978%2C23705778%2C23722182%2C23723304%2C23730401%2C23732339%2C23735597%2C23735744%2C23735876%2C23738145%2C23738979%2C23740024%2C23741666%2C23741719%2C23742397&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_174%2BVertical_433%2BVertical_444%2BVertical_474%2BVertical_533%2Bafv_user_id_lu474HMt895mVxZdlIHXEA%2Bafv_user_nerdologia%2Byt_cid_482704%2Byt_mpvid_uxAGvzgbV8kVTk0E%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FjSPrcJH3SGg&ea=0&flash=0&host=ca-host-pub-8444926366820323&ht_id=21519380&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_jSPrcJH3SGg&wgl=1&dbp=ChZnaVptZ3RPZGI4ME9vN0h5SV9WcDJREAEgASgA&lact=-1&yt_pt=APb3F28X3--WlXLV-5qP_iZuc5y1qoprsFhF7MuWo_iitp6g8NIPbqQO29TWsQUtdt9LQXMMHrDWguEkDOhGb3C9tO9D2fSD8WXxAov75BdW0MD4vdPIhrHtc0aeQJkPp_THuClYyBTKbF4wkh5lmPZM4qtJnarqNC0_3H9c8A&dt=1527218883352&bdt=363681&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=2582688206446&frm=20&ga_vid=367039805.1527218547&ga_sid=1527218547&ga_hid=519378441&ga_fc=0&pv=1&iag=0&icsg=3023388715520&dssz=44&mdo=0&mso=0&u_tz=-180&u_his=8&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.youtube.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjSPrcJH3SGg&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=28 (0)
+[0525/013422.569:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0525/013422.570:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0525/013423.089:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/013423.089:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/013423.266:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26action_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26app%3Ddesktop&uilel=3&hl=en&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0525/013423.330:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0525/013423.330:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0525/013424.361:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vfl7buC1V/desktop_polymer.js (1177)
+[0525/013424.777:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0525/013424.953:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0525/013424.961:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0525/013505.890:WARNING:audio_sync_reader.cc(172)] ASR: No room in socket buffer.: O pipe está sendo fechado. (0xE8)
+[0525/013508.064:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9471239%2C9488978%2C23705778%2C23736809%2C23738145%2C23741665%2C23741719%2C23743092&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_182%2BVertical_211%2BVertical_3%2BVertical_36%2BVertical_613%2Bafv_user_id_EWHPFNilsT0IfQfutVzsag%2Bafv_user_portadosfundos%2Byt_cid_9444964%2Byt_mpvid_NpYCeDodpGclGymY%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FSryQ0OZJPiM&ea=0&flash=0&host=ca-host-pub-9467070958982806&ht_id=4868603&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_SryQ0OZJPiM&wgl=1&dbp=ChY5R04tREVlS01FdFFBdkEzRWlzMUxnEAEgASgA&lact=-1&yt_pt=APb3F2-GQxJcYC9xzMo5zrcmRBJv0GedxJIAuD8kYnj4fs3-rzHFU8oV68Ylwpu6KpQn5ufANDeREb4dI9e7nrC8PLxpBV9PMAUhw6ZxoxsPwxP6GtT0Thm4_TX2PPiR_l3_AJnkrhAAHVEouNwYAU9dZUHyMbsKiasv6HKf8g&dt=1527222907581&bdt=45335&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=1120704152546&frm=20&ga_vid=448622126.1527222870&ga_sid=1527222870&ga_hid=227108380&ga_fc=0&pv=1&iag=0&icsg=12093554178728&dssz=42&mdo=0&mso=0&u_tz=-180&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSryQ0OZJPiM&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=29 (0)
+[0525/013508.212:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn3.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: about:blank (0)
+[0525/013508.213:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn3.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://cdn3.doubleverify.com/bst2tv3.html (0)
+[0525/013508.229:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9471239%2C9488978%2C23705778%2C23736809%2C23738145%2C23741665%2C23741719%2C23743092&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_182%2BVertical_211%2BVertical_3%2BVertical_36%2BVertical_613%2Bafv_user_id_EWHPFNilsT0IfQfutVzsag%2Bafv_user_portadosfundos%2Byt_cid_9444964%2Byt_mpvid_NpYCeDodpGclGymY%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FSryQ0OZJPiM&ea=0&flash=0&host=ca-host-pub-9467070958982806&ht_id=4868603&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_SryQ0OZJPiM&wgl=1&dbp=ChY5R04tREVlS01FdFFBdkEzRWlzMUxnEAEgASgA&lact=-1&yt_pt=APb3F2-GQxJcYC9xzMo5zrcmRBJv0GedxJIAuD8kYnj4fs3-rzHFU8oV68Ylwpu6KpQn5ufANDeREb4dI9e7nrC8PLxpBV9PMAUhw6ZxoxsPwxP6GtT0Thm4_TX2PPiR_l3_AJnkrhAAHVEouNwYAU9dZUHyMbsKiasv6HKf8g&dt=1527222907581&bdt=45335&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=1120704152546&frm=20&ga_vid=448622126.1527222870&ga_sid=1527222870&ga_hid=227108380&ga_fc=0&pv=1&iag=0&icsg=12093554178728&dssz=42&mdo=0&mso=0&u_tz=-180&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSryQ0OZJPiM&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=29 (0)
+[0525/013510.056:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9471239%2C9488978%2C23705778%2C23736809%2C23738145%2C23741665%2C23741719%2C23743092&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_182%2BVertical_211%2BVertical_3%2BVertical_36%2BVertical_613%2Bafv_user_id_EWHPFNilsT0IfQfutVzsag%2Bafv_user_portadosfundos%2Byt_cid_9444964%2Byt_mpvid_NpYCeDodpGclGymY%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FSryQ0OZJPiM&ea=0&flash=0&host=ca-host-pub-9467070958982806&ht_id=4868603&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_SryQ0OZJPiM&wgl=1&dbp=ChY5R04tREVlS01FdFFBdkEzRWlzMUxnEAEgASgA&lact=-1&yt_pt=APb3F2-GQxJcYC9xzMo5zrcmRBJv0GedxJIAuD8kYnj4fs3-rzHFU8oV68Ylwpu6KpQn5ufANDeREb4dI9e7nrC8PLxpBV9PMAUhw6ZxoxsPwxP6GtT0Thm4_TX2PPiR_l3_AJnkrhAAHVEouNwYAU9dZUHyMbsKiasv6HKf8g&dt=1527222907581&bdt=45335&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=1120704152546&frm=20&ga_vid=448622126.1527222870&ga_sid=1527222870&ga_hid=227108380&ga_fc=0&pv=1&iag=0&icsg=12093554178728&dssz=42&mdo=0&mso=0&u_tz=-180&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSryQ0OZJPiM&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=29 (0)
+[0525/013510.246:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn3.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: about:blank (0)
+[0525/013510.250:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://cdn3.doubleverify.com will be distrusted in the future. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://cdn3.doubleverify.com/t2tv7.html (0)
+[0525/013511.703:INFO:CONSOLE(69)] "13.049999999999997", source: https://img.mediaplex.com/content/0/12255/250364_300x250.js (69)
+[0525/013511.950:INFO:CONSOLE(0)] "Refused to execute script from 'https://adfarm.mediaplex.com/ad/im/13044-85265-63530-0?mpaltsys=46&mpalt=108abe2f-184c-4e68-8e6e-f9836e9c27f3' because its MIME type ('image/gif') is not executable.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9471239%2C9488978%2C23705778%2C23736809%2C23738145%2C23741665%2C23741719%2C23743092&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_182%2BVertical_211%2BVertical_3%2BVertical_36%2BVertical_613%2Bafv_user_id_EWHPFNilsT0IfQfutVzsag%2Bafv_user_portadosfundos%2Byt_cid_9444964%2Byt_mpvid_NpYCeDodpGclGymY%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FSryQ0OZJPiM&ea=0&flash=0&host=ca-host-pub-9467070958982806&ht_id=4868603&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_SryQ0OZJPiM&wgl=1&dbp=ChY5R04tREVlS01FdFFBdkEzRWlzMUxnEAEgASgA&lact=-1&yt_pt=APb3F2-GQxJcYC9xzMo5zrcmRBJv0GedxJIAuD8kYnj4fs3-rzHFU8oV68Ylwpu6KpQn5ufANDeREb4dI9e7nrC8PLxpBV9PMAUhw6ZxoxsPwxP6GtT0Thm4_TX2PPiR_l3_AJnkrhAAHVEouNwYAU9dZUHyMbsKiasv6HKf8g&dt=1527222907581&bdt=45335&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=1120704152546&frm=20&ga_vid=448622126.1527222870&ga_sid=1527222870&ga_hid=227108380&ga_fc=0&pv=1&iag=0&icsg=12093554178728&dssz=42&mdo=0&mso=0&u_tz=-180&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSryQ0OZJPiM&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=29 (0)
+[0525/013513.713:INFO:CONSOLE(0)] "Refused to execute script from 'https://t.myvisualiq.net/sync?prid=1001&ao=0&pruuid=TAPAD_04dbda31-5fd5-11e8-a858-0242ac110003' because its MIME type ('image/gif') is not executable.", source: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9471239%2C9488978%2C23705778%2C23736809%2C23738145%2C23741665%2C23741719%2C23743092&pucrd=CgYIABAAGAB4Ag&guci=2.2.0.0.2.2&channel=0854550288%2BVertical_182%2BVertical_211%2BVertical_3%2BVertical_36%2BVertical_613%2Bafv_user_id_EWHPFNilsT0IfQfutVzsag%2Bafv_user_portadosfundos%2Byt_cid_9444964%2Byt_mpvid_NpYCeDodpGclGymY%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180524%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FSryQ0OZJPiM&ea=0&flash=0&host=ca-host-pub-9467070958982806&ht_id=4868603&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_SryQ0OZJPiM&wgl=1&dbp=ChY5R04tREVlS01FdFFBdkEzRWlzMUxnEAEgASgA&lact=-1&yt_pt=APb3F2-GQxJcYC9xzMo5zrcmRBJv0GedxJIAuD8kYnj4fs3-rzHFU8oV68Ylwpu6KpQn5ufANDeREb4dI9e7nrC8PLxpBV9PMAUhw6ZxoxsPwxP6GtT0Thm4_TX2PPiR_l3_AJnkrhAAHVEouNwYAU9dZUHyMbsKiasv6HKf8g&dt=1527222907581&bdt=45335&idt=0&shv=r20180521&cbv=r20110914&saldr=ca&abxe=1&correlator=1120704152546&frm=20&ga_vid=448622126.1527222870&ga_sid=1527222870&ga_hid=227108380&ga_fc=0&pv=1&iag=0&icsg=12093554178728&dssz=42&mdo=0&mso=0&u_tz=-180&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=1378&ady=80&biw=1853&bih=1026&scr_x=0&scr_y=0&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSryQ0OZJPiM&rx=0&eae=2&brdim=50%2C54%2C50%2C54%2C1920%2C0%2C1870%2C1026%2C1870%2C1026&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&alvm=none&fu=4112&bc=5&ifi=1&fsb=1&dtd=29 (0)
+[0525/013900.440:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0525/013921.323:ERROR:broker_win.cc(138)] Error sending sync broker message
+[0529/020021.803:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0529/020021.804:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0529/020022.329:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0529/020022.329:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0529/020022.592:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&hl=en&passive=true&service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26next%3D%252Fsignin_passive%26action_handle_signin%3Dtrue%26app%3Ddesktop' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0529/020022.643:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0529/020022.643:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0529/020023.542:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vfl7buC1V/desktop_polymer.js (1177)
+[0529/020023.727:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0529/020023.734:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0529/020024.028:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0529/020036.001:ERROR:broker_win.cc(138)] Error sending sync broker message
+[0529/025233.904:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0529/025233.905:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0529/025234.431:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0529/025234.432:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0529/025234.682:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&hl=en&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3Dpassive%26action_handle_signin%3Dtrue%26next%3D%252Fsignin_passive' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0529/025234.715:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0529/025234.715:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0529/025235.437:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vfl7buC1V/desktop_polymer.js (1177)
+[0529/025235.667:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0529/025235.676:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0529/025236.102:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0531/184442.006:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0531/184442.007:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0531/184442.498:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0531/184442.498:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0531/184442.719:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0531/184442.719:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0531/184443.503:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0531/184443.741:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0531/184443.749:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0531/184443.967:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0531/184451.200:WARNING:audio_sync_reader.cc(172)] ASR: No room in socket buffer.: O pipe está sendo fechado. (0xE8)
+[0531/184813.596:ERROR:broker_win.cc(59)] Error reading broker pipe: O pipe foi finalizado. (0x6D)
+[0601/182207.782:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0601/182207.783:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0601/182208.303:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0601/182208.303:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0601/182208.486:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?hl=en&service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26app%3Ddesktop%26next%3D%252Fsignin_passive%26action_handle_signin%3Dtrue&passive=true&uilel=3' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0601/182208.537:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0601/182208.537:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0601/182209.631:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0601/182209.930:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0601/182209.937:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0601/182210.180:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0601/182242.669:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0601/182242.669:INFO:CONSOLE(2243)] "'HTMLVideoElement.webkitExitFullscreen()' is deprecated. Please use 'Document.exitFullscreen()' instead.", source: https://www.youtube.com/yts/jsbin/player-vflKSi76_/en_US/base.js (2243)
+[0602/154900.255:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0602/154900.268:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0602/154900.717:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/154900.717:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/154900.947:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/154900.947:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/154901.503:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0602/154901.835:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0602/154901.843:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0602/154902.336:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0602/154902.473:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0602/155705.101:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0602/155705.102:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0602/155705.497:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/155705.497:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/155705.602:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26feature%3Dpassive%26next%3D%252Fsignin_passive%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&passive=true&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0602/155705.627:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/155705.627:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/155705.950:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0602/155706.164:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0602/155706.164:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0602/155706.684:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0602/155707.586:INFO:CONSOLE(4106)] "paper-tooltip:", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (4106)
+[0602/155708.670:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"video decode error"}
+[0602/155912.225:ERROR:broker_win.cc(59)] Error reading broker pipe: O pipe foi finalizado. (0x6D)
+[0602/161258.186:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0602/161258.187:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0602/161258.600:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/161258.600:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/161258.706:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26action_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26app%3Ddesktop&hl=en&uilel=3&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0602/161258.737:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/161258.737:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/161259.079:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0602/161259.269:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0602/161259.270:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0602/161259.881:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0602/161311.817:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"video decode error"}
+[0602/161858.001:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0602/161858.002:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0602/161858.394:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/161858.394:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/161858.507:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26app%3Ddesktop%26feature%3Dpassive%26hl%3Den&passive=true&service=youtube&hl=en&uilel=3' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0602/161858.546:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/161858.546:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/161858.896:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0602/161859.173:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0602/161859.174:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0602/161859.644:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0602/161919.602:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0602/161919.603:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0602/162001.910:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0602/162001.911:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0602/162026.516:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0602/162026.516:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0602/162256.803:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0602/162256.804:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0602/162257.231:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/162257.231:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/162257.378:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/162257.379:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/162257.962:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0602/162258.133:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0602/162258.133:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0602/162258.610:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0602/165258.135:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0602/165258.135:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0602/172258.181:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0602/172258.182:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0602/181042.474:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0602/181042.476:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0602/181042.988:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/181042.988:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/181043.209:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&passive=true&hl=en&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Dpassive%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0602/181043.246:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0602/181043.246:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0602/181043.981:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0602/181044.256:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0602/181044.266:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0602/181044.565:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0602/181045.397:INFO:CONSOLE(4106)] "paper-tooltip:", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (4106)
+[0602/181045.403:INFO:CONSOLE(4106)] "paper-tooltip:", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (4106)
+[0602/181045.668:INFO:CONSOLE(4106)] "paper-tooltip:", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (4106)
+[0602/181048.200:WARNING:audio_sync_reader.cc(172)] ASR: No room in socket buffer.: O pipe está sendo fechado. (0xE8)
+[0602/181054.679:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0602/181054.679:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0602/181054.680:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0602/181054.680:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0602/181106.682:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0602/181106.683:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0602/181106.683:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0602/181106.683:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0602/181106.691:INFO:CONSOLE(8)] "Uncaught SecurityError: Blocked a frame with origin "https://www.facebook.com" from accessing a frame with origin "https://www.google.com.br". The frame requesting access set "document.domain" to "facebook.com", but the frame being accessed did not. Both must set "document.domain" to the same value to allow access.", source: https://static.xx.fbcdn.net/rsrc.php/v3i8Wt4/y3/l/en_US/6AksW6383_8.js (8)
+[0602/181110.358:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0602/181110.358:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0602/181110.358:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0602/181110.359:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0602/181110.431:INFO:CONSOLE(8)] "Uncaught SecurityError: Blocked a frame with origin "https://www.facebook.com" from accessing a frame with origin "https://www.google.com.br". The frame requesting access set "document.domain" to "facebook.com", but the frame being accessed did not. Both must set "document.domain" to the same value to allow access.", source: https://static.xx.fbcdn.net/rsrc.php/v3i8Wt4/y3/l/en_US/6AksW6383_8.js (8)
+[0602/181140.952:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0602/181140.952:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0602/181140.952:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0602/181140.952:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0602/181158.400:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0602/181158.400:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0602/181158.400:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0602/181158.400:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0602/181158.408:INFO:CONSOLE(8)] "Uncaught SecurityError: Blocked a frame with origin "https://www.facebook.com" from accessing a frame with origin "https://www.google.com.br". The frame requesting access set "document.domain" to "facebook.com", but the frame being accessed did not. Both must set "document.domain" to the same value to allow access.", source: https://static.xx.fbcdn.net/rsrc.php/v3i8Wt4/y3/l/en_US/6AksW6383_8.js (8)
+[0602/181207.822:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0602/181207.822:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0602/181207.822:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0602/181207.823:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0602/181207.831:INFO:CONSOLE(8)] "Uncaught SecurityError: Blocked a frame with origin "https://www.facebook.com" from accessing a frame with origin "https://www.google.com.br". The frame requesting access set "document.domain" to "facebook.com", but the frame being accessed did not. Both must set "document.domain" to the same value to allow access.", source: https://static.xx.fbcdn.net/rsrc.php/v3i8Wt4/y3/l/en_US/6AksW6383_8.js (8)
+[0604/002534.677:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 139
+[0604/002753.651:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0604/002753.652:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0604/002754.088:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0604/002754.088:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0604/002754.303:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0604/002754.303:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0604/002754.899:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0604/002755.457:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0604/002755.465:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0604/002755.658:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0604/002756.286:INFO:CONSOLE(4106)] "paper-tooltip:", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (4106)
+[0604/002756.782:INFO:CONSOLE(4106)] "paper-tooltip:", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (4106)
+[0604/002805.973:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0604/002806.009:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 33
+[0604/002813.114:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0604/002813.114:INFO:CONSOLE(2243)] "'HTMLVideoElement.webkitExitFullscreen()' is deprecated. Please use 'Document.exitFullscreen()' instead.", source: https://www.youtube.com/yts/jsbin/player-vflKSi76_/en_US/base.js (2243)
+[0604/002813.143:WARNING:audio_sync_reader.cc(172)] ASR: No room in socket buffer.: O pipe está sendo fechado. (0xE8)
+[0604/002821.664:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0604/002822.131:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0604/002822.242:INFO:CONSOLE(1)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (1)
+[0604/002930.831:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0604/002930.832:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0604/002931.215:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0604/002931.215:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0604/002931.332:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26action_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26app%3Ddesktop&hl=en&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0604/002931.359:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0604/002931.359:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0604/002931.729:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (1177)
+[0604/002932.011:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0604/002932.011:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0604/002932.191:INFO:CONSOLE(4106)] "paper-tooltip:", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (4106)
+[0604/002932.273:INFO:CONSOLE(4106)] "paper-tooltip:", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflD9na9s/desktop_polymer.js (4106)
+[0604/002932.552:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0604/003013.909:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0604/003015.435:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0604/003016.920:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0604/003017.529:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 45
+[0604/003018.263:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflQSvpsZ/www-widgetapi.js (93)
+[0604/003034.230:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0604/003034.230:INFO:CONSOLE(2243)] "'HTMLVideoElement.webkitExitFullscreen()' is deprecated. Please use 'Document.exitFullscreen()' instead.", source: https://www.youtube.com/yts/jsbin/player-vflKSi76_/en_US/base.js (2243)
+[0606/202505.062:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0606/202505.063:INFO:CONSOLE(130)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: http://play1590.fifth-our-prize29.loan/?utm_medium=NQ3aDvyuBCtafRQJPeFC66tm%2bMNW8T%2baflxP0d0AJGo%3d&t=main6 (130)
+[0606/202509.181:WARNING:PushPullFIFO.cpp(182)] PushPullFIFO: underflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=480, fifoLength=8192)
+[0606/202509.203:WARNING:audio_sync_reader.cc(189)] AudioSyncReader::Read timed out, audio glitch count=1
+[0606/202509.419:INFO:CONSOLE(89)] "[object ArrayBuffer]", source: http://play1590.fifth-our-prize29.loan/?utm_medium=NQ3aDvyuBCtafRQJPeFC66tm%2bMNW8T%2baflxP0d0AJGo%3d&t=main6 (89)
+[0606/202509.508:INFO:CONSOLE(0)] "Uncaught (in promise) EncodingError: Unable to decode audio data", source: http://play1590.fifth-our-prize29.loan/?utm_medium=NQ3aDvyuBCtafRQJPeFC66tm%2bMNW8T%2baflxP0d0AJGo%3d&t=main6 (0)
+[0606/202523.076:INFO:CONSOLE(63)] "Blocked call to navigator.vibrate because user hasn't tapped on the frame or any embedded frame yet: https://www.chromestatus.com/feature/5644273861001216.", source: http://play1590.fifth-our-prize29.loan/?utm_medium=NQ3aDvyuBCtafRQJPeFC66tm%2bMNW8T%2baflxP0d0AJGo%3d&t=main6 (63)
+[0606/202523.089:INFO:CONSOLE(108)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: http://play1590.fifth-our-prize29.loan/?utm_medium=NQ3aDvyuBCtafRQJPeFC66tm%2bMNW8T%2baflxP0d0AJGo%3d&t=main6 (108)
+[0606/202523.089:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0606/204534.428:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 17
+[0606/210005.882:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 1
+[0606/211135.149:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 9115
+[0606/211556.697:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 1
+[0606/212855.220:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0607/002020.199:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002021.104:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002021.239:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002023.152:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002023.247:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002023.435:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002027.238:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002027.280:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002027.439:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002027.602:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002034.152:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002034.215:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002034.367:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002034.562:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002034.743:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002034.943:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002257.572:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 123357
+[0607/002259.626:ERROR:browser_host_impl.cc(1661)] Invalid URL passed to CefBrowserHostImpl::LoadURL: @@@@
+[0607/002848.917:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 1
+[0607/002849.432:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 3
+[0607/002909.165:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 5
+[0607/002936.574:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 7
+[0607/002936.636:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 9
+[0607/002937.757:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 11
+[0607/003007.712:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 13
+[0607/003155.246:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 17
+[0607/003342.731:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 19
+[0607/003413.129:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 21
+[0607/003428.513:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 23
+[0607/003443.929:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 25
+[0607/003443.961:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 27
+[0607/003459.391:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 29
+[0607/003530.405:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 31
+[0607/003545.683:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 33
+[0607/003616.606:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 35
+[0607/003647.092:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 37
+[0607/003717.828:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 39
+[0607/003819.363:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 41
+[0607/003834.618:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 43
+[0607/003850.340:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 45
+[0607/003851.098:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 49
+[0607/003851.106:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 51
+[0607/003851.168:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 53
+[0607/003851.168:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 55
+[0607/003907.453:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 57
+[0607/003908.226:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 59
+[0607/003938.084:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 63
+[0607/003938.173:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 65
+[0607/003953.255:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 67
+[0607/003953.273:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 69
+[0607/003957.845:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 71
+[0607/004002.178:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 73
+[0607/004002.493:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 75
+[0607/004002.533:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 77
+[0607/004002.533:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 79
+[0607/004003.823:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 81
+[0607/004004.015:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 83
+[0607/004005.018:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 87
+[0607/004019.686:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 89
+[0607/004029.353:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 91
+[0607/004034.863:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 93
+[0607/004048.224:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 95
+[0607/004105.602:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 97
+[0607/004106.053:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 99
+[0607/004121.493:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 101
+[0607/004137.094:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 103
+[0607/004223.589:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 105
+[0607/004254.464:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 107
+[0607/004306.820:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 109
+[0607/004306.840:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 111
+[0607/004310.008:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 113
+[0607/004335.627:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 115
+[0607/004412.362:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 117
+[0607/004412.624:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 119
+[0607/004428.203:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 121
+[0607/004428.224:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 123
+[0607/004428.224:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 125
+[0607/004438.130:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 127
+[0607/004443.469:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 129
+[0607/004459.123:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 131
+[0607/004545.197:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 133
+[0607/004642.697:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 135
+[0607/004718.224:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 137
+[0607/004718.975:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 139
+[0607/004734.576:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 141
+[0607/004749.923:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 143
+[0607/004800.062:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 145
+[0607/004820.687:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 147
+[0607/004851.659:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 149
+[0607/004851.661:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 151
+[0607/004852.922:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 153
+[0607/004853.001:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 155
+[0607/004853.064:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 157
+[0607/004909.326:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 159
+[0607/004910.197:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 161
+[0607/005027.204:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 163
+[0607/005027.381:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 165
+[0607/005108.731:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 167
+[0607/005130.158:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 169
+[0607/005130.308:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 171
+[0607/005130.318:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 173
+[0607/005201.358:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 175
+[0607/005201.782:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 177
+[0607/005217.360:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 179
+[0607/005232.729:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 181
+[0607/005232.729:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 183
+[0607/005232.799:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 185
+[0607/005233.072:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 187
+[0607/005247.532:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 191
+[0607/005247.986:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 193
+[0607/005248.907:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 195
+[0607/005249.606:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 197
+[0607/005253.288:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 199
+[0607/005320.093:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 201
+[0607/005335.541:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 203
+[0607/005406.760:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 205
+[0607/005437.431:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 207
+[0607/005437.482:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 209
+[0607/005437.641:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 211
+[0607/005437.684:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 213
+[0607/005437.684:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 215
+[0607/005437.813:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 219
+[0607/005539.459:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 221
+[0607/005539.552:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 223
+[0607/005539.599:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 225
+[0607/005539.787:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 227
+[0607/005539.823:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 229
+[0607/005539.892:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 231
+[0607/005607.482:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 233
+[0607/005608.427:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 235
+[0607/005608.500:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 237
+[0607/005608.610:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 239
+[0607/005609.521:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 241
+[0607/005609.521:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 243
+[0607/005609.530:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 245
+[0607/005614.553:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 247
+[0607/005614.845:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 249
+[0607/005614.915:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 251
+[0607/005614.929:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 253
+[0607/005614.948:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 255
+[0607/005614.958:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 257
+[0607/005615.017:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 259
+[0607/005615.504:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 261
+[0607/005615.605:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 263
+[0607/005616.368:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 265
+[0607/005616.553:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 267
+[0607/005617.019:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 269
+[0607/005617.242:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 271
+[0607/005851.928:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 275
+[0607/005851.939:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 277
+[0607/005851.961:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 279
+[0607/005858.889:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 281
+[0607/005859.116:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 283
+[0607/005859.320:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 285
+[0607/005859.895:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 287
+[0607/005859.993:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 289
+[0607/005900.409:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 291
+[0607/005900.490:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 293
+[0607/010754.311:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 1
+[0607/010756.438:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 3
+[0607/010756.478:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 5
+[0607/010756.478:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 7
+[0607/010756.478:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 9
+[0607/010756.478:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 11
+[0607/010758.184:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 13
+[0607/010758.203:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 15
+[0607/010758.213:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 17
+[0607/010802.451:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 19
+[0607/010802.654:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 21
+[0607/151140.914:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 1
+[0607/152735.489:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 37545

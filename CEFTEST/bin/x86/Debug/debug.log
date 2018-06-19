@@ -500,3 +500,25 @@ C:\fakepath(94,10-42): warning X3571: pow(f, e) will not work for negative f, us
 [0607/010802.654:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 21
 [0607/151140.914:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 1
 [0607/152735.489:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 37545
+[0618/214130.858:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0618/214130.859:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0618/214131.302:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0618/214131.302:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0618/214131.425:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26hl%3Den%26feature%3Dpassive%26app%3Ddesktop%26action_handle_signin%3Dtrue&hl=en&passive=true&service=youtube&uilel=3' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=BR (0)
+[0618/214131.468:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0618/214131.468:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0618/214131.852:INFO:CONSOLE(1182)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflFi4d4X/desktop_polymer.js (1182)
+[0618/214132.076:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0618/214132.076:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0618/214132.608:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflnjBBxk/www-widgetapi.js (93)
+[0618/214136.219:ERROR:broker_win.cc(138)] Error sending sync broker message
+[0618/220433.480:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0618/220433.482:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[0618/220433.905:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0618/220433.906:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0618/220434.053:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0618/220434.054:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0618/220434.507:INFO:CONSOLE(1177)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vflt_SGhH/desktop_polymer.js (1177)
+[0618/220434.672:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0618/220434.673:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0618/220435.160:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflnjBBxk/www-widgetapi.js (93)

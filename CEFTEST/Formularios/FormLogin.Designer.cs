@@ -34,6 +34,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.lblCaps = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -49,8 +50,8 @@
             this.tbLogin.Name = "tbLogin";
             this.tbLogin.Size = new System.Drawing.Size(221, 43);
             this.tbLogin.TabIndex = 0;
-            this.tbLogin.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TextBoxs_KeyDown);
-            this.tbLogin.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TextBoxs_KeyPress);
+            this.tbLogin.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Null_KeyDown);
+            this.tbLogin.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Null_KeyPress);
             // 
             // tbSenha
             // 
@@ -64,8 +65,8 @@
             this.tbSenha.PasswordChar = '*';
             this.tbSenha.Size = new System.Drawing.Size(221, 43);
             this.tbSenha.TabIndex = 1;
-            this.tbSenha.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TextBoxs_KeyDown);
-            this.tbSenha.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TextBoxs_KeyPress);
+            this.tbSenha.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Null_KeyDown);
+            this.tbSenha.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Null_KeyPress);
             // 
             // btnEntrar
             // 
@@ -182,6 +183,20 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // lblCaps
+            // 
+            this.lblCaps.AutoSize = true;
+            this.lblCaps.BackColor = System.Drawing.Color.Transparent;
+            this.lblCaps.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblCaps.Font = new System.Drawing.Font("Century Gothic", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCaps.ForeColor = System.Drawing.Color.Transparent;
+            this.lblCaps.Location = new System.Drawing.Point(595, 232);
+            this.lblCaps.Name = "lblCaps";
+            this.lblCaps.Size = new System.Drawing.Size(164, 22);
+            this.lblCaps.TabIndex = 11;
+            this.lblCaps.Text = "Caps Lock ligado";
+            this.lblCaps.Visible = false;
+            // 
             // FormLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
@@ -189,6 +204,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(114)))), ((int)(((byte)(122)))));
             this.BackgroundImage = global::NavKids.Properties.Resources.pattern_2;
             this.ClientSize = new System.Drawing.Size(845, 476);
+            this.Controls.Add(this.lblCaps);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
@@ -225,5 +241,6 @@
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label lblCaps;
     }
 }

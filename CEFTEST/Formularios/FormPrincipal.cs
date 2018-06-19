@@ -117,5 +117,13 @@ namespace NavKids {
             NavPanelForm.Controls.Clear();
             NavPanelForm.Controls.Add(configControl);
         }
+
+        private void FormPrincipal_KeyDown(object sender, KeyEventArgs e) {
+            if (e.KeyCode == Keys.Return) {
+                MessageBox.Show("Test");
+                e.Handled = true;
+                //e.SuppressKeyPress = true;
+            }
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CefSharp;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,6 +18,8 @@ namespace NavKids
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            CefSettings settings = new CefSettings();
+            Cef.Initialize(settings);
 
             FormLogin formLogin = new FormLogin();
             formLogin.ShowDialog();

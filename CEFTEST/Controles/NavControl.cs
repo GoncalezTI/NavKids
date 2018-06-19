@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using CefSharp.WinForms;
 using CefSharp;
+using CefSharp.WinForms.Internals;
 
 namespace NavKids
 {
@@ -26,8 +27,6 @@ namespace NavKids
 
         private void InitializeChromium()
         {
-            CefSettings settings = new CefSettings();
-            Cef.Initialize(settings);
             chromium = new ChromiumWebBrowser("http://google.com")
             {
                 Dock = DockStyle.Fill
@@ -38,22 +37,30 @@ namespace NavKids
 
         private void Chromium_LoadingStateChanged(object sender, LoadingStateChangedEventArgs e)
         {
-            if (!e.IsLoading) {
-                //tbEndereco.Text = chromium.Address;
-                bool aux = false;
-                Uri uriaux = new Uri(chromium.Address);
+            this.InvokeOnUiThreadIfRequired(SetTbEndereco);
+        }
+
+        public void SetTbEndereco() {
+            bool aux = false;
+            Uri uriaux = new Uri(chromium.Address);
+
+            if (chromium.IsLoading) {
+                //tbEndereco.Text = uriaux.ToString();
+
+                tbEndereco.Text = uriaux.ToString();
 
                 if (!CGlobalStatica.usuarioGlobal.Administrador) {
                     foreach (CSitePermitido item in CGlobalStatica.usuarioGlobal.SitesPermitidos) {
-                        
-                        MessageBox.Show(chromium.Address + ":: Chrome Address");
-                        MessageBox.Show(uriaux.Host.ToString() + ":: Uri Host");
+
+                        //MessageBox.Show(chromium.Address + ":: Chrome Address");
+                        //MessageBox.Show(uriaux.Host.ToString() + ":: Uri Host");
                         if (uriaux.Host.ToString().Contains(item.site)) {
                             aux = true;
                         }
                     }
-                    if (!aux) {
+                    if (!aux && uriaux.ToString() != "www.google.com/erro") {
                         chromium.Load("www.google.com/erro");
+                        chromium.Stop();
                     }
                 }
                 if (ultimoSite != uriaux.ToString()) {
@@ -87,6 +94,15 @@ namespace NavKids
         private void btnHome_Click(object sender, EventArgs e)
         {
             chromium.Load("google.com");
+        }
+
+        private void tbEndereco_KeyDown(object sender, KeyEventArgs e) {
+            if (e.KeyCode == Keys.Return) {
+                //MessageBox.Show("Enter pressed");
+                chromium.Load(tbEndereco.Text);
+                e.Handled = true;
+                e.SuppressKeyPress = true;
+            }
         }
     }
 

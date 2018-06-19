@@ -17,6 +17,8 @@ namespace NavKids {
         public FormLogin() {
             InitializeComponent();
             lblLoginError.Visible = false;
+            AcceptButton = btnEntrar;
+            CancelButton = btnSair;
         }
 
         private void btnEntrar_Click(object sender, EventArgs e) {
@@ -94,20 +96,39 @@ namespace NavKids {
             Application.Exit();
         }
 
-        private void TextBoxs_KeyDown(object sender, KeyEventArgs e) {
-            if (e.Control && e.KeyValue == 86) {
-                e.Handled = true;
-                e.SuppressKeyPress = true;
-            }
-        }
+        //private void TextBoxs_KeyDown(object sender, KeyEventArgs e) {
+        //    if (e.Control && e.KeyValue == 86) {
+        //        e.Handled = true;
+        //        e.SuppressKeyPress = true;
+        //    }
+        //}
 
         private void button1_Click(object sender, EventArgs e) {
             Application.Exit();
         }
 
-        private void TextBoxs_KeyPress(object sender, KeyPressEventArgs e) {
+        //private void TextBoxs_KeyPress(object sender, KeyPressEventArgs e) {
+        //    if ((!char.IsLetter(e.KeyChar) && !char.IsNumber(e.KeyChar) && !char.IsControl(e.KeyChar))) {
+        //        e.Handled = true;
+        //    }
+        //}
+
+        private void Null_KeyPress(object sender, KeyPressEventArgs e) {
             if ((!char.IsLetter(e.KeyChar) && !char.IsNumber(e.KeyChar) && !char.IsControl(e.KeyChar))) {
                 e.Handled = true;
+            }
+            if (Control.IsKeyLocked(Keys.CapsLock)) {
+                lblCaps.Visible = true;
+            }
+            else {
+                lblCaps.Visible = false;
+            }
+        }
+
+        private void Null_KeyDown(object sender, KeyEventArgs e) {
+            if (e.Control && e.KeyValue == 86) {
+                e.Handled = true;
+                e.SuppressKeyPress = true;
             }
         }
     }

@@ -289,9 +289,10 @@ namespace NavKids {
 
             if (usuario.Administrador) {
                 if (listaUsuarios.Count(x => x.Administrador) > 1) {
-
-
-                    if (usuario.Delete()) {
+                    if (usuario.Usuario == CGlobalStatica.usuarioGlobal.Usuario) {
+                        MessageBox.Show("Você não pode excluir o seu próprio usuario!");
+                    }
+                    else if(usuario.Delete()) {
                         MessageBox.Show("Usuario excluido com sucesso!");
                         AtualizaComboBox();
                     }

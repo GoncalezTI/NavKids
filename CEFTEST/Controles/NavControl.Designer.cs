@@ -126,6 +126,7 @@
             this.tbEndereco.Name = "tbEndereco";
             this.tbEndereco.Size = new System.Drawing.Size(413, 33);
             this.tbEndereco.TabIndex = 3;
+            this.tbEndereco.KeyDown += new System.Windows.Forms.KeyEventHandler(this.tbEndereco_KeyDown);
             // 
             // btnIr
             // 

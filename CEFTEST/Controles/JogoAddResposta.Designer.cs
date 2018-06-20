@@ -47,14 +47,13 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.rtbTexto.BackColor = System.Drawing.Color.LightSteelBlue;
             this.rtbTexto.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.rtbTexto.ForeColor = System.Drawing.Color.White;
-            this.rtbTexto.Location = new System.Drawing.Point(66, 0);
+            this.rtbTexto.ForeColor = System.Drawing.Color.Black;
+            this.rtbTexto.Location = new System.Drawing.Point(66, 1);
             this.rtbTexto.MinimumSize = new System.Drawing.Size(600, 58);
             this.rtbTexto.Name = "rtbTexto";
-            this.rtbTexto.Size = new System.Drawing.Size(779, 59);
+            this.rtbTexto.Size = new System.Drawing.Size(779, 58);
             this.rtbTexto.TabIndex = 1;
-            this.rtbTexto.Text = "aaaaaaaaaaaasdasdasdasdaaaaaaaaaaaaasdasdasdasdaaaaaaaaaaaaasdasdasdasdaaaaaaaaaa" +
-    "aaasdasdasdasdaaaaaaaaaaaaasdasdasdasdaaaaaaaaaaaaasdasdasdasda";
+            this.rtbTexto.Text = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
             this.rtbTexto.TextChanged += new System.EventHandler(this.rtbTexto_TextChanged);
             // 
             // JogoAddResposta

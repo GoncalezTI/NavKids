@@ -112,7 +112,7 @@
             this.btnJogo.Name = "btnJogo";
             this.btnJogo.Size = new System.Drawing.Size(233, 50);
             this.btnJogo.TabIndex = 4;
-            this.btnJogo.Text = "Jogo";
+            this.btnJogo.Text = "Jogar";
             this.btnJogo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnJogo.UseVisualStyleBackColor = false;
             this.btnJogo.Click += new System.EventHandler(this.btnJogo_Click);
@@ -156,7 +156,7 @@
             this.btnConfiguracoes.Name = "btnConfiguracoes";
             this.btnConfiguracoes.Size = new System.Drawing.Size(233, 50);
             this.btnConfiguracoes.TabIndex = 2;
-            this.btnConfiguracoes.Text = "Configuração";
+            this.btnConfiguracoes.Text = "Configurações";
             this.btnConfiguracoes.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnConfiguracoes.UseVisualStyleBackColor = false;
             this.btnConfiguracoes.Click += new System.EventHandler(this.btnConfiguracoes_Click);

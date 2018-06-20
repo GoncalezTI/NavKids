@@ -23,6 +23,7 @@
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent() {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormLogin));
             this.tbLogin = new System.Windows.Forms.TextBox();
             this.tbSenha = new System.Windows.Forms.TextBox();
             this.btnEntrar = new System.Windows.Forms.Button();
@@ -109,9 +110,9 @@
             this.lblLoginError.ForeColor = System.Drawing.Color.Transparent;
             this.lblLoginError.Location = new System.Drawing.Point(246, 314);
             this.lblLoginError.Name = "lblLoginError";
-            this.lblLoginError.Size = new System.Drawing.Size(377, 32);
+            this.lblLoginError.Size = new System.Drawing.Size(383, 32);
             this.lblLoginError.TabIndex = 6;
-            this.lblLoginError.Text = "Usuário ou senha Incorretos";
+            this.lblLoginError.Text = "Usuário ou senha incorretos!";
             // 
             // panel3
             // 
@@ -216,6 +217,7 @@
             this.Font = new System.Drawing.Font("Century Gothic", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.Name = "FormLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

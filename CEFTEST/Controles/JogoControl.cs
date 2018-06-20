@@ -52,6 +52,7 @@ namespace NavKids {
             }
 
             rtbTexto.Text = questao.Pergunta;
+            richTextBox1 = null ;
             questao.listaRespostas.OrderBy(x => rand.Next());
             pRespostas.Controls.Clear();
 

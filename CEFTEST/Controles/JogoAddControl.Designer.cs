@@ -56,7 +56,7 @@
             // pRespostas
             // 
             this.pRespostas.AutoSize = true;
-            this.pRespostas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(253)))), ((int)(((byte)(255)))));
+            this.pRespostas.BackColor = System.Drawing.Color.LightSteelBlue;
             this.pRespostas.Dock = System.Windows.Forms.DockStyle.Top;
             this.pRespostas.Location = new System.Drawing.Point(0, 351);
             this.pRespostas.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);

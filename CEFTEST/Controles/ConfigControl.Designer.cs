@@ -79,6 +79,9 @@
             this.pBottom = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.siteControl3 = new NavKids.SiteControl();
+            this.siteControl2 = new NavKids.SiteControl();
+            this.siteControl1 = new NavKids.SiteControl();
             this.panel6 = new System.Windows.Forms.Panel();
             this.btnAdicionarSite = new System.Windows.Forms.Button();
             this.tbAdicionarSite = new System.Windows.Forms.TextBox();
@@ -92,9 +95,6 @@
             this.cbUsuarioHist = new System.Windows.Forms.ComboBox();
             this.lblUsuarioHist = new System.Windows.Forms.Label();
             this.panel10 = new System.Windows.Forms.Panel();
-            this.siteControl3 = new NavKids.SiteControl();
-            this.siteControl2 = new NavKids.SiteControl();
-            this.siteControl1 = new NavKids.SiteControl();
             this.tableLayoutPanel1.SuspendLayout();
             this.pTopLeft.SuspendLayout();
             this.pTopRight.SuspendLayout();
@@ -279,11 +279,11 @@
             // 
             this.lblMaxUso.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblMaxUso.AutoSize = true;
-            this.lblMaxUso.Location = new System.Drawing.Point(138, 180);
+            this.lblMaxUso.Location = new System.Drawing.Point(114, 181);
             this.lblMaxUso.Name = "lblMaxUso";
-            this.lblMaxUso.Size = new System.Drawing.Size(221, 21);
+            this.lblMaxUso.Size = new System.Drawing.Size(250, 21);
             this.lblMaxUso.TabIndex = 14;
-            this.lblMaxUso.Text = "Tempo Máximo de Uso: ";
+            this.lblMaxUso.Text = "Tempo Máximo de Acesso:";
             // 
             // lblDiasDaSemana
             // 
@@ -332,8 +332,9 @@
             this.cbSabado.Name = "cbSabado";
             this.cbSabado.Size = new System.Drawing.Size(98, 25);
             this.cbSabado.TabIndex = 9;
-            this.cbSabado.Text = "Sabado";
+            this.cbSabado.Text = "Sábado";
             this.cbSabado.UseVisualStyleBackColor = true;
+            this.cbSabado.CheckedChanged += new System.EventHandler(this.cbSabado_CheckedChanged);
             // 
             // cbQuarta
             // 
@@ -424,7 +425,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(1126, 41);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Configurações de Usuário";
+            this.label2.Text = "Configurações do Usuário";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel1
@@ -543,7 +544,7 @@
             this.lblNovaSenha.Name = "lblNovaSenha";
             this.lblNovaSenha.Size = new System.Drawing.Size(536, 27);
             this.lblNovaSenha.TabIndex = 30;
-            this.lblNovaSenha.Text = "Trocar Senha";
+            this.lblNovaSenha.Text = "Alterar Senha";
             this.lblNovaSenha.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel8
@@ -567,7 +568,7 @@
             this.rbAvancado.Size = new System.Drawing.Size(125, 25);
             this.rbAvancado.TabIndex = 37;
             this.rbAvancado.TabStop = true;
-            this.rbAvancado.Text = "Avancado";
+            this.rbAvancado.Text = "Avançado";
             this.rbAvancado.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.rbAvancado.UseVisualStyleBackColor = true;
             this.rbAvancado.Click += new System.EventHandler(this.radioClick_Click);
@@ -581,7 +582,7 @@
             this.rbIntermediario.Size = new System.Drawing.Size(144, 25);
             this.rbIntermediario.TabIndex = 36;
             this.rbIntermediario.TabStop = true;
-            this.rbIntermediario.Text = "Intermediario";
+            this.rbIntermediario.Text = "Intermediário";
             this.rbIntermediario.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.rbIntermediario.UseVisualStyleBackColor = true;
             this.rbIntermediario.Click += new System.EventHandler(this.radioClick_Click);
@@ -595,7 +596,7 @@
             this.rbBasico.Size = new System.Drawing.Size(84, 25);
             this.rbBasico.TabIndex = 35;
             this.rbBasico.TabStop = true;
-            this.rbBasico.Text = "Basico";
+            this.rbBasico.Text = "Básico";
             this.rbBasico.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.rbBasico.UseVisualStyleBackColor = true;
             this.rbBasico.Click += new System.EventHandler(this.radioClick_Click);
@@ -609,7 +610,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(536, 27);
             this.label7.TabIndex = 34;
-            this.label7.Text = "Nível dos Jogos";
+            this.label7.Text = "Nível do Jogo";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel7
@@ -710,7 +711,7 @@
             this.cbuSabado.Name = "cbuSabado";
             this.cbuSabado.Size = new System.Drawing.Size(98, 25);
             this.cbuSabado.TabIndex = 25;
-            this.cbuSabado.Text = "Sabado";
+            this.cbuSabado.Text = "Sábado";
             this.cbuSabado.UseVisualStyleBackColor = true;
             this.cbuSabado.Click += new System.EventHandler(this.cbu_Click);
             // 
@@ -732,11 +733,11 @@
             // 
             this.lbluMaxUso.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lbluMaxUso.AutoSize = true;
-            this.lbluMaxUso.Location = new System.Drawing.Point(127, 116);
+            this.lbluMaxUso.Location = new System.Drawing.Point(103, 117);
             this.lbluMaxUso.Name = "lbluMaxUso";
-            this.lbluMaxUso.Size = new System.Drawing.Size(221, 21);
+            this.lbluMaxUso.Size = new System.Drawing.Size(250, 21);
             this.lbluMaxUso.TabIndex = 16;
-            this.lbluMaxUso.Text = "Tempo Máximo de Uso: ";
+            this.lbluMaxUso.Text = "Tempo Máximo de Acesso:";
             // 
             // cbuMaxUso
             // 
@@ -816,6 +817,39 @@
             this.panel2.Size = new System.Drawing.Size(541, 242);
             this.panel2.TabIndex = 4;
             // 
+            // siteControl3
+            // 
+            this.siteControl3.BackColor = System.Drawing.Color.Transparent;
+            this.siteControl3.Dock = System.Windows.Forms.DockStyle.Top;
+            this.siteControl3.Font = new System.Drawing.Font("Century Gothic", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.siteControl3.Location = new System.Drawing.Point(0, 156);
+            this.siteControl3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.siteControl3.Name = "siteControl3";
+            this.siteControl3.Size = new System.Drawing.Size(541, 78);
+            this.siteControl3.TabIndex = 2;
+            // 
+            // siteControl2
+            // 
+            this.siteControl2.BackColor = System.Drawing.Color.Transparent;
+            this.siteControl2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.siteControl2.Font = new System.Drawing.Font("Century Gothic", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.siteControl2.Location = new System.Drawing.Point(0, 78);
+            this.siteControl2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.siteControl2.Name = "siteControl2";
+            this.siteControl2.Size = new System.Drawing.Size(541, 78);
+            this.siteControl2.TabIndex = 1;
+            // 
+            // siteControl1
+            // 
+            this.siteControl1.BackColor = System.Drawing.Color.Transparent;
+            this.siteControl1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.siteControl1.Font = new System.Drawing.Font("Century Gothic", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.siteControl1.Location = new System.Drawing.Point(0, 0);
+            this.siteControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.siteControl1.Name = "siteControl1";
+            this.siteControl1.Size = new System.Drawing.Size(541, 78);
+            this.siteControl1.TabIndex = 0;
+            // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.Transparent;
@@ -859,9 +893,9 @@
             this.lblAdicionarSite.AutoSize = true;
             this.lblAdicionarSite.Location = new System.Drawing.Point(35, 15);
             this.lblAdicionarSite.Name = "lblAdicionarSite";
-            this.lblAdicionarSite.Size = new System.Drawing.Size(131, 21);
+            this.lblAdicionarSite.Size = new System.Drawing.Size(136, 21);
             this.lblAdicionarSite.TabIndex = 36;
-            this.lblAdicionarSite.Text = "Adicionar Site";
+            this.lblAdicionarSite.Text = "Adicionar Site:";
             // 
             // label5
             // 
@@ -898,7 +932,7 @@
             this.btnLimparHistorico.Name = "btnLimparHistorico";
             this.btnLimparHistorico.Size = new System.Drawing.Size(541, 32);
             this.btnLimparHistorico.TabIndex = 1;
-            this.btnLimparHistorico.Text = "Limpar Historico";
+            this.btnLimparHistorico.Text = "Limpar Histórico";
             this.btnLimparHistorico.UseVisualStyleBackColor = false;
             this.btnLimparHistorico.Click += new System.EventHandler(this.btnLimparHistorico_Click);
             // 
@@ -924,7 +958,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(541, 39);
             this.label4.TabIndex = 34;
-            this.label4.Text = "Historico";
+            this.label4.Text = "Histórico";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel3
@@ -970,39 +1004,6 @@
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(3, 219);
             this.panel10.TabIndex = 8;
-            // 
-            // siteControl3
-            // 
-            this.siteControl3.BackColor = System.Drawing.Color.Transparent;
-            this.siteControl3.Dock = System.Windows.Forms.DockStyle.Top;
-            this.siteControl3.Font = new System.Drawing.Font("Century Gothic", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.siteControl3.Location = new System.Drawing.Point(0, 156);
-            this.siteControl3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.siteControl3.Name = "siteControl3";
-            this.siteControl3.Size = new System.Drawing.Size(541, 78);
-            this.siteControl3.TabIndex = 2;
-            // 
-            // siteControl2
-            // 
-            this.siteControl2.BackColor = System.Drawing.Color.Transparent;
-            this.siteControl2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.siteControl2.Font = new System.Drawing.Font("Century Gothic", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.siteControl2.Location = new System.Drawing.Point(0, 78);
-            this.siteControl2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.siteControl2.Name = "siteControl2";
-            this.siteControl2.Size = new System.Drawing.Size(541, 78);
-            this.siteControl2.TabIndex = 1;
-            // 
-            // siteControl1
-            // 
-            this.siteControl1.BackColor = System.Drawing.Color.Transparent;
-            this.siteControl1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.siteControl1.Font = new System.Drawing.Font("Century Gothic", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.siteControl1.Location = new System.Drawing.Point(0, 0);
-            this.siteControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.siteControl1.Name = "siteControl1";
-            this.siteControl1.Size = new System.Drawing.Size(541, 78);
-            this.siteControl1.TabIndex = 0;
             // 
             // ConfigControl
             // 

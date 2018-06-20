@@ -34,7 +34,7 @@
             // lblIdQuestao
             // 
             this.lblIdQuestao.Dock = System.Windows.Forms.DockStyle.Left;
-            this.lblIdQuestao.ForeColor = System.Drawing.Color.White;
+            this.lblIdQuestao.ForeColor = System.Drawing.Color.Black;
             this.lblIdQuestao.Location = new System.Drawing.Point(0, 0);
             this.lblIdQuestao.Name = "lblIdQuestao";
             this.lblIdQuestao.Size = new System.Drawing.Size(53, 90);
@@ -54,13 +54,12 @@
             // lblTexto
             // 
             this.lblTexto.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.lblTexto.ForeColor = System.Drawing.Color.White;
+            this.lblTexto.ForeColor = System.Drawing.Color.Black;
             this.lblTexto.Location = new System.Drawing.Point(0, 0);
             this.lblTexto.Name = "lblTexto";
             this.lblTexto.Size = new System.Drawing.Size(384, 54);
             this.lblTexto.TabIndex = 0;
-            this.lblTexto.Text = "orelereoreorasdaerfevrvrgrwfefefedvrgv rv rg rgbtg tgb tgbtgb tgb tgb tgfrfrf srf" +
-    " sr srfsrfsefsdfcesdf fesef  tgbt";
+            this.lblTexto.Text = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
             // 
             // btnExcluir
             // 

@@ -522,3 +522,5 @@ C:\fakepath(94,10-42): warning X3571: pow(f, e) will not work for negative f, us
 [0618/220434.672:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
 [0618/220434.673:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
 [0618/220435.160:INFO:CONSOLE(93)] "Unrecognized feature: 'autoplay'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflnjBBxk/www-widgetapi.js (93)
+[0619/181858.750:ERROR:backend_impl.cc(1055)] Critical error found -8
+[0619/181859.141:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2

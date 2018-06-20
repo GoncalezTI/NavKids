@@ -777,7 +777,7 @@ namespace NavKids {
 
             }
             catch (Exception ex) {
-                MessageBox.Show("" + ex);
+              /*MessageBox.Show("" + ex);*/
                 return DateTime.Now;
             }
 
